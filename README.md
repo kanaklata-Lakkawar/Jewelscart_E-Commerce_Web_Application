@@ -14,6 +14,8 @@ This project is an E-Commerce Web Application developed using Java technologies 
 - View admin profile.
 - Secure logout functionality.
   <br><br><br>
+  ![Screenshot 2024-03-18 103008](https://github.com/kanaklata-Lakkawar/Jewelscart_E-Commerce_Web_Application/assets/114863229/2070e933-c4fe-4270-b715-4a33656b2798)
+![Screenshot 2024-03-18 103022](https://github.com/kanaklata-Lakkawar/Jewelscart_E-Commerce_Web_Application/assets/114863229/c66d9d6c-120d-412a-ac43-63676ced7390)
   ![Screenshot 2024-03-17 204118](https://github.com/kanaklata-Lakkawar/Jewelscart_E-Commerce_Web_Application/assets/114863229/f6f8232d-95a7-46e7-be06-032ae9120242)
 ![Screenshot 2024-03-17 204222](https://github.com/kanaklata-Lakkawar/Jewelscart_E-Commerce_Web_Application/assets/114863229/d5515e2d-49e5-42a5-96f2-6700060eda58)
 ![Screenshot 2024-03-17 204032](https://github.com/kanaklata-Lakkawar/Jewelscart_E-Commerce_Web_Application/assets/114863229/2ebd110e-bfc2-4d53-96e4-d55d9bb04ff3)
