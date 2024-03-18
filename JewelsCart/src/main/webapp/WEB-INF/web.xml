@@ -1,0 +1,78 @@
+<!DOCTYPE web-app PUBLIC
+ "-//Sun Microsystems, Inc.//DTD Web Application 2.3//EN"
+ "http://java.sun.com/dtd/web-app_2_3.dtd" >
+
+<web-app>
+  <display-name>Archetype Created Web Application</display-name>
+<servlet>
+    <servlet-name>Register</servlet-name>
+    <servlet-class>com.in.controller.Register</servlet-class>
+</servlet>
+<servlet>
+	<servlet-name>Signin</servlet-name>
+	<display-name>Signin</display-name>
+	<description></description>
+	<servlet-class>com.in.controller.Signin</servlet-class>
+</servlet>
+
+<servlet>
+	<servlet-name>UploadImage</servlet-name>
+	<display-name>UploadImage</display-name>
+	<description></description>
+	<servlet-class>com.in.controller.UploadImage</servlet-class>
+	
+</servlet>
+<servlet>
+	<servlet-name>AddItem</servlet-name>
+	<display-name>AddItem</display-name>
+	<description></description>
+	<servlet-class>com.in.controller.AddItem</servlet-class>
+</servlet>
+<servlet>
+	<servlet-name>AddPaymentDetails</servlet-name>
+	<display-name>AddPaymentDetails</display-name>
+	<description></description>
+	<servlet-class>com.in.controller.AddPaymentDetails</servlet-class>
+</servlet>
+<servlet>
+	<servlet-name>DeleteServ</servlet-name>
+	<display-name>DeleteServ</display-name>
+	<description></description>
+	<servlet-class>com.in.controller.DeleteServ</servlet-class>
+</servlet>
+<servlet>
+	<servlet-name>EditServ</servlet-name>
+	<display-name>EditServ</display-name>
+	<description></description>
+	<servlet-class>com.in.controller.EditServ</servlet-class>
+</servlet>
+<servlet-mapping>
+    <servlet-name>Register</servlet-name>
+    <url-pattern>/regserv</url-pattern>
+</servlet-mapping>
+<servlet-mapping>
+	<servlet-name>Signin</servlet-name>
+	<url-pattern>/signinserv</url-pattern>
+</servlet-mapping>
+
+<servlet-mapping>
+	<servlet-name>UploadImage</servlet-name>
+	<url-pattern>/uploadserv</url-pattern>
+</servlet-mapping>
+<servlet-mapping>
+	<servlet-name>AddItem</servlet-name>
+	<url-pattern>/additemserv</url-pattern>
+</servlet-mapping>
+<servlet-mapping>
+	<servlet-name>AddPaymentDetails</servlet-name>
+	<url-pattern>/addpayment</url-pattern>
+</servlet-mapping>
+<servlet-mapping>
+	<servlet-name>DeleteServ</servlet-name>
+	<url-pattern>/deleteserv</url-pattern>
+</servlet-mapping>
+<servlet-mapping>
+	<servlet-name>EditServ</servlet-name>
+	<url-pattern>/editserv</url-pattern>
+</servlet-mapping>
+</web-app>
