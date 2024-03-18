@@ -33,6 +33,11 @@ This project is an E-Commerce Web Application developed using Java technologies 
 - View booked items and associated details.
 - View and edit user profile.
 - Secure logout functionality.
+  <br><br><br>
+  ![Screenshot 2024-03-17 204740](https://github.com/kanaklata-Lakkawar/Jewelscart_E-Commerce_Web_Application/assets/114863229/5594f8ca-e8d4-4154-aaf6-71a37df6f474)
+![Screenshot 2024-03-17 210311](https://github.com/kanaklata-Lakkawar/Jewelscart_E-Commerce_Web_Application/assets/114863229/6bac350f-7894-4b22-b169-dda005a8fc3b)
+![Screenshot 2024-03-17 214429](https://github.com/kanaklata-Lakkawar/Jewelscart_E-Commerce_Web_Application/assets/114863229/f95f140d-33a5-435c-984c-1887ff0325a8)
+
 
 ## Technologies Used:
 
