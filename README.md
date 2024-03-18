@@ -11,12 +11,13 @@ This project is an E-Commerce Web Application developed using Java technologies 
 - Add, edit, and delete products with details including name, description, price, and availability.
 - View list of users registered in the system.
 - View booked products and associated user information.
-- View and edit admin profile.
+- View admin profile.
 - Secure logout functionality.
   <br><br><br>
   ![Screenshot 2024-03-17 204118](https://github.com/kanaklata-Lakkawar/Jewelscart_E-Commerce_Web_Application/assets/114863229/f6f8232d-95a7-46e7-be06-032ae9120242)
 ![Screenshot 2024-03-17 204222](https://github.com/kanaklata-Lakkawar/Jewelscart_E-Commerce_Web_Application/assets/114863229/d5515e2d-49e5-42a5-96f2-6700060eda58)
 ![Screenshot 2024-03-17 204032](https://github.com/kanaklata-Lakkawar/Jewelscart_E-Commerce_Web_Application/assets/114863229/2ebd110e-bfc2-4d53-96e4-d55d9bb04ff3)
+![Screenshot 2024-03-17 214941](https://github.com/kanaklata-Lakkawar/Jewelscart_E-Commerce_Web_Application/assets/114863229/cb50a9de-5987-429a-8195-41ba0589b09c)
 
 
 
