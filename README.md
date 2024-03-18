@@ -1,6 +1,6 @@
 # Jewelscart_E-Commerce_Web_Application
 
-This project is an E-Commerce Web Application developed using Java technologies including Hibernate, JSP (JavaServer Pages), Servlets, JDBC (Java Database Connectivity), and SQL. It provides both admin and user functionalities for managing products, bookings, and user accounts. <br>
+This project is an E-Commerce Web Application developed using Java technologies including Hibernate, JSP (JavaServer Pages), Servlets, JDBC (Java Database Connectivity), and SQL. It provides both admin and user functionalities for managing products, bookings, and user accounts. <br> <br> <br>
 ![Screenshot 2024-03-17 204534](https://github.com/kanaklata-Lakkawar/Jewelscart_E-Commerce_Web_Application/assets/114863229/e53b9212-51a4-4228-b7a2-c80dda64403a)
 
 
