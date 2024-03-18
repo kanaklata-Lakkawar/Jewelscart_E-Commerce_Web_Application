@@ -18,6 +18,8 @@ This project is an E-Commerce Web Application developed using Java technologies 
 ![Screenshot 2024-03-17 204222](https://github.com/kanaklata-Lakkawar/Jewelscart_E-Commerce_Web_Application/assets/114863229/d5515e2d-49e5-42a5-96f2-6700060eda58)
 ![Screenshot 2024-03-17 204032](https://github.com/kanaklata-Lakkawar/Jewelscart_E-Commerce_Web_Application/assets/114863229/2ebd110e-bfc2-4d53-96e4-d55d9bb04ff3)
 ![Screenshot 2024-03-17 214941](https://github.com/kanaklata-Lakkawar/Jewelscart_E-Commerce_Web_Application/assets/114863229/cb50a9de-5987-429a-8195-41ba0589b09c)
+![Screenshot 2024-03-17 214956](https://github.com/kanaklata-Lakkawar/Jewelscart_E-Commerce_Web_Application/assets/114863229/f7a8a752-bf7f-4bb3-a21c-42ac0cf53dfb)
+![Screenshot 2024-03-17 202254](https://github.com/kanaklata-Lakkawar/Jewelscart_E-Commerce_Web_Application/assets/114863229/71321065-ca38-4790-b88d-332266cab794)
 
 
 
